@@ -44,13 +44,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p align="center">
-    [![Product Name Screen Shot][product-screenshot]]
- </p>
+  <a> <img src="lindenmayer-tree.png" alt="Demo"> </a>
+</p>
 
 
 We want to implement a program that draws random graphics using a Lindenmayer or L-system. Among other things, we want to produce drawings that look like plants (possible application: landscape graphic output). The L-system was invented for this purpose: it allows to model the development of plant structures. It is a formal grammar that defines the generation of symbol strings on an alphabet. The symbols correspond to structural units of the plant (branches), and the resulting chain defines the structure to be drawn.
-
-Translated with www.DeepL.com/Translator (free version)
 
 ### Built With
 
