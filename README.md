@@ -56,7 +56,7 @@ Project Link: [https://github.com/MaelitoP/Lindenmayer](https://github.com/Maeli
 
 <!-- REFERENCES -->
 ## References
-* [L-système](https://fr.wikipedia.org/wiki/L-Syst%C3%A8me)
+* [L-system](https://fr.wikipedia.org/wiki/L-Syst%C3%A8me)
 * [P. Prusinkiewicz & A. Lindenmayer - The Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/abop/abop.pdf)
 * [JSON](https://fr.wikipedia.org/wiki/JavaScript_Object_Notation)
 
