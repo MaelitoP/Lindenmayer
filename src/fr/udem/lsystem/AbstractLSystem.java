@@ -17,8 +17,6 @@ import java.lang.reflect.InvocationTargetException;
  * to sequences as {@link Symbol.Seq}. (Note that implementing classes do not
  * need to store an actual backing list or array for the iterator, but could calculate
  * {@link java.util.Iterator#next() } on the fly.)
- *
- * @author Mikl&oacute;s Cs&#369;r&ouml;s
  */
 public abstract class AbstractLSystem<S>
 {
