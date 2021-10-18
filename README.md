@@ -1,14 +1,10 @@
-[![Contributors][contributors-shield]][contributors-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <br />
 <p align="center">
-  <h3 align="center">Lindenmayer</h3>
-
-  <p align="center">
-    Data Structure Course Project #1
-  </p>
+  <h3>Lindenmayer</h3>
+  Data Structure Course Project #1
 </p>
 
 
@@ -76,8 +72,6 @@ Project Link: [https://github.com/MaelitoP/Lindenmayer](https://github.com/Maeli
 * [JSON](https://fr.wikipedia.org/wiki/JavaScript_Object_Notation)
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/MaelitoP/Lindenmayer/graphs/contributors
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/MaelitoP/Lindenmayer/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
