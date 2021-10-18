@@ -3,8 +3,8 @@
 
 <br />
 <p align="center">
-  <h3>Lindenmayer</h3>
-  Data Structure Course Project #1
+  <h3 align="center">Lindenmayer</h3>
+  <p align="center"> Data Structure Course Project #1 </p>
 </p>
 
 
@@ -19,19 +19,9 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#references">References</a></li>
   </ol>
 </details>
 
@@ -48,7 +38,6 @@ We want to implement a program that draws random graphics using a Lindenmayer or
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [JSON](https://github.com/stleary/JSON-java)
 
 <!-- LICENSE -->
@@ -59,7 +48,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Maël LE PETIT - [@MaelitoP](https://twitter.com/maelitoP) - contact@maelito.fr
+Maël LE PETIT - [@Maelito_P](https://twitter.com/Maelito_P) - contact@maelito.fr
 
 Project Link: [https://github.com/MaelitoP/Lindenmayer](https://github.com/MaelitoP/Lindenmayer)
 
